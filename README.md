@@ -1,4 +1,4 @@
-# Windows-Annotation-App
+# Windows Annotation App
 
 We are developing a Windows annotation app that allows direct anotation on the desktop, using Microsoft Foundation Class(MFC) and Graphics Device Interface(GDI).
 
